@@ -1,13 +1,11 @@
 {
-  "name": "com.unity.example",
+  "name": "com.company.me",
   "version": "1.2.3",
   "displayName": "Package Example",
   "description": "This is an example package",
-  "unity": "2019.1",
+  "unity": "2020.3",
   "unityRelease": "0b5",
   "dependencies": {
-    "com.unity.some-package": "1.0.0",
-    "com.unity.other-package": "2.0.0"
  },
  "keywords": [
     "keyword1",
